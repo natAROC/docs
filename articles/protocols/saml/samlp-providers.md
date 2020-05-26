@@ -28,6 +28,7 @@ The following providers have participated in a Kantara inter-operability test an
   * __RCDevs Open SAMPL IdP__
   * __Optimal IdM VIS Federation Services__
   * __Oracle Access Manager__ (Oracle Identity Federation merged into this)
+  * __Oracle Identity Cloud Service (Oracle IDCS)
   * __PingFederate__  (IDP Light)
   * __RSA Federated Identity__  (IDP Light)
   * __SecureAuth__
